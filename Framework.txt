@@ -1,0 +1,9 @@
+pinyougou      最大项目名
+
+pinyougou-sellers-backstage         商家后台
+pinyougou-operators-backstage   运营商管理后台
+
+pinyougou-common-pojo          公共实体类
+pinyougou-common-ulit           公共工具类
+
+
