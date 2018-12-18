@@ -1,4 +1,4 @@
-package cn.pojo;
+package com.example.pyg.pinyougoucommonpojo.pojo;
 
 public class TbContentCategory {
     private Long id;
